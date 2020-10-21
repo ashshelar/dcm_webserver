@@ -1,1 +1,1 @@
-print('TWO')
+print('TWO & two')
